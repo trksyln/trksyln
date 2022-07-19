@@ -1,6 +1,3 @@
-<h3 align="center">trksyln</h3>
-
-
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=trksyln&show_icons=true&theme=radical" />
 </div>
